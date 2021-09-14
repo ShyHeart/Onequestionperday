@@ -7,6 +7,7 @@ import java.util.Map;
  * @作者 Heart
  * @时间 2021/9/13 14:11
  */
+//https://leetcode-cn.com/problems/number-of-boomerangs/
 public class day13_numberOfBoomerangs447 {
     public int numberOfBoomerangs(int[][] points) {
         int n = points.length;
