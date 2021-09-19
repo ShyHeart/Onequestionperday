@@ -11,7 +11,7 @@ import java.util.Set;
  */
 
 //https://leetcode-cn.com/problems/valid-sudoku/solution/
-public class day17_isValidSudoku {
+public class day17_isValidSudoku36 {
     public boolean isValidSudoku(char[][] board) {
         Map<Integer, Set<Integer>> row = new HashMap<>(), col = new HashMap<>(), area = new HashMap<>();
 

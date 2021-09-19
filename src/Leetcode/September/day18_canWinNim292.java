@@ -6,7 +6,7 @@ package Leetcode.September;
  */
 
 //https://leetcode-cn.com/problems/nim-game/
-public class day18_canWinNim {
+public class day18_canWinNim292 {
     public boolean canWinNim(int n) {
         return n % 4 != 0;
     }
