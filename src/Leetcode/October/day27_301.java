@@ -1,5 +1,10 @@
 package Leetcode.October;
 
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+
 public class day27_301 {
     Set<String> set = new HashSet<>();
     int n, max, len;
